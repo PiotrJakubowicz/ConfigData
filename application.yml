@@ -9,13 +9,3 @@ eureka:
 spring:
   profiles: words
 words: NOT APPLICABLE
-
----
-spring:
-  profiles: word1
-words: Pies, Kot
-
----
-spring:
-  profiles: word2
-words: szczeka, miauczy
