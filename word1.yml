@@ -1,4 +1,4 @@
 spring:
   profiles: word1
 wordConfig:
-  words: pies
+  words: kot

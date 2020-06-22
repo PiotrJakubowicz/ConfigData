@@ -1,4 +1,4 @@
 spring:
   profiles: word2
 wordConfig:
-  words: biega
+  words: marudzi
